@@ -1,0 +1,36 @@
+# Changelog
+
+## v1.0 — Cao Urban Trainer ASI
+
+**Author:** CaoK1d13
+
+Initial public release of the native ASI source project.
+
+Included systems:
+
+- GUI menu on F5.
+- Player Menu and Advanced Player Menu.
+- Skin / Model Changer.
+- Outfit / Clothes Editor.
+- Weapons Menu and Advanced Weapon Menu.
+- Vehicle Spawner, Vehicle Tuning, and Vehicle Builder.
+- Add-on vehicle list support.
+- Garage System.
+- NPC Menu and NPC Model Browser.
+- Chauffeur / Driver Mode.
+- Bodyguards System.
+- Enemy Spawner / Battle Arena.
+- Scenario Menu.
+- Mission / Scenario Creator.
+- Free camera support while creating missions.
+- Automatic cleanup of nearby ambient NPCs and vehicles while editing missions.
+- Object Spawner.
+- Animation Menu.
+- Screenshot / Cinematic Tools.
+- World Control Menu.
+- Advanced Teleport Menu.
+- Police / Wanted Menu.
+- Save / Load Trainer Presets.
+- Settings Menu.
+- Multi-language support: English, Russian, Chinese, French, German, Japanese, Spanish, Italian.
+- Stability improvements for mission entities, menu indexes, bodyguards, weapon toggles, vehicle god mode, and INI parsing.
