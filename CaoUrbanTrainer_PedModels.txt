@@ -1,0 +1,758 @@
+# Cao Urban Trainer v1.0 Ped Model Catalog
+# Format: Category|model_name
+# You can add addon/custom ped models here, one per line.
+# The script validates each model in-game before spawning.
+Ambient Female|a_f_m_beach_01
+Ambient Female|a_f_m_bevhills_01
+Ambient Female|a_f_m_bevhills_02
+Ambient Female|a_f_m_bodybuild_01
+Ambient Female|a_f_m_business_02
+Ambient Female|a_f_m_downtown_01
+Ambient Female|a_f_m_eastsa_01
+Ambient Female|a_f_m_eastsa_02
+Ambient Female|a_f_m_fatbla_01
+Ambient Female|a_f_m_fatcult_01
+Ambient Female|a_f_m_fatwhite_01
+Ambient Female|a_f_m_ktown_01
+Ambient Female|a_f_m_ktown_02
+Ambient Female|a_f_m_prolhost_01
+Ambient Female|a_f_m_salton_01
+Ambient Female|a_f_m_skidrow_01
+Ambient Female|a_f_m_soucent_01
+Ambient Female|a_f_m_soucent_02
+Ambient Female|a_f_m_soucentmc_01
+Ambient Female|a_f_m_tourist_01
+Ambient Female|a_f_m_tramp_01
+Ambient Female|a_f_m_trampbeac_01
+Ambient Female|a_f_o_genstreet_01
+Ambient Female|a_f_o_indian_01
+Ambient Female|a_f_o_ktown_01
+Ambient Female|a_f_o_salton_01
+Ambient Female|a_f_o_soucent_01
+Ambient Female|a_f_o_soucent_02
+Ambient Female|a_f_y_beach_01
+Ambient Female|a_f_y_bevhills_01
+Ambient Female|a_f_y_bevhills_02
+Ambient Female|a_f_y_bevhills_03
+Ambient Female|a_f_y_bevhills_04
+Ambient Female|a_f_y_business_01
+Ambient Female|a_f_y_business_02
+Ambient Female|a_f_y_business_03
+Ambient Female|a_f_y_business_04
+Ambient Female|a_f_y_clubcust_01
+Ambient Female|a_f_y_clubcust_02
+Ambient Female|a_f_y_clubcust_03
+Ambient Female|a_f_y_eastsa_01
+Ambient Female|a_f_y_eastsa_02
+Ambient Female|a_f_y_eastsa_03
+Ambient Female|a_f_y_epsilon_01
+Ambient Female|a_f_y_femaleagent
+Ambient Female|a_f_y_fitness_01
+Ambient Female|a_f_y_fitness_02
+Ambient Female|a_f_y_genhot_01
+Ambient Female|a_f_y_golfer_01
+Ambient Female|a_f_y_hiker_01
+Ambient Female|a_f_y_hippie_01
+Ambient Female|a_f_y_hipster_01
+Ambient Female|a_f_y_hipster_02
+Ambient Female|a_f_y_hipster_03
+Ambient Female|a_f_y_hipster_04
+Ambient Female|a_f_y_indian_01
+Ambient Female|a_f_y_juggalo_01
+Ambient Female|a_f_y_runner_01
+Ambient Female|a_f_y_rurmeth_01
+Ambient Female|a_f_y_scdressy_01
+Ambient Female|a_f_y_skater_01
+Ambient Female|a_f_y_soucent_01
+Ambient Female|a_f_y_soucent_02
+Ambient Female|a_f_y_soucent_03
+Ambient Female|a_f_y_tennis_01
+Ambient Female|a_f_y_topless_01
+Ambient Female|a_f_y_tourist_01
+Ambient Female|a_f_y_tourist_02
+Ambient Female|a_f_y_vinewood_01
+Ambient Female|a_f_y_vinewood_02
+Ambient Female|a_f_y_vinewood_03
+Ambient Female|a_f_y_vinewood_04
+Ambient Female|a_f_y_gencaspat_01
+Ambient Female|a_f_y_smartcaspat_01
+Ambient Female|a_f_y_yoga_01
+Ambient Male|a_m_m_acult_01
+Ambient Male|a_m_m_afriamer_01
+Ambient Male|a_m_m_beach_01
+Ambient Male|a_m_m_beach_02
+Ambient Male|a_m_m_bevhills_01
+Ambient Male|a_m_m_bevhills_02
+Ambient Male|a_m_m_business_01
+Ambient Male|a_m_m_eastsa_01
+Ambient Male|a_m_m_eastsa_02
+Ambient Male|a_m_m_farmer_01
+Ambient Male|a_m_m_fatlatin_01
+Ambient Male|a_m_m_genfat_01
+Ambient Male|a_m_m_genfat_02
+Ambient Male|a_m_m_golfer_01
+Ambient Male|a_m_m_hasjew_01
+Ambient Male|a_m_m_hillbilly_01
+Ambient Male|a_m_m_hillbilly_02
+Ambient Male|a_m_m_indian_01
+Ambient Male|a_m_m_ktown_01
+Ambient Male|a_m_m_malibu_01
+Ambient Male|a_m_m_mexcntry_01
+Ambient Male|a_m_m_mexlabor_01
+Ambient Male|a_m_m_mlcrisis_01
+Ambient Male|a_m_m_og_boss_01
+Ambient Male|a_m_m_paparazzi_01
+Ambient Male|a_m_m_polynesian_01
+Ambient Male|a_m_m_prolhost_01
+Ambient Male|a_m_m_rurmeth_01
+Ambient Male|a_m_m_salton_01
+Ambient Male|a_m_m_salton_02
+Ambient Male|a_m_m_salton_03
+Ambient Male|a_m_m_salton_04
+Ambient Male|a_m_m_skater_01
+Ambient Male|a_m_m_skidrow_01
+Ambient Male|a_m_m_socenlat_01
+Ambient Male|a_m_m_soucent_01
+Ambient Male|a_m_m_soucent_02
+Ambient Male|a_m_m_soucent_03
+Ambient Male|a_m_m_soucent_04
+Ambient Male|a_m_m_stlat_02
+Ambient Male|a_m_m_tennis_01
+Ambient Male|a_m_m_tourist_01
+Ambient Male|a_m_m_tramp_01
+Ambient Male|a_m_m_trampbeac_01
+Ambient Male|a_m_m_tranvest_01
+Ambient Male|a_m_m_tranvest_02
+Ambient Male|a_m_o_acult_01
+Ambient Male|a_m_o_acult_02
+Ambient Male|a_m_o_beach_01
+Ambient Male|a_m_o_genstreet_01
+Ambient Male|a_m_o_ktown_01
+Ambient Male|a_m_o_salton_01
+Ambient Male|a_m_o_soucent_01
+Ambient Male|a_m_o_soucent_02
+Ambient Male|a_m_o_soucent_03
+Ambient Male|a_m_o_tramp_01
+Ambient Male|a_m_y_acult_01
+Ambient Male|a_m_y_acult_02
+Ambient Male|a_m_y_beach_01
+Ambient Male|a_m_y_beach_02
+Ambient Male|a_m_y_beach_03
+Ambient Male|a_m_y_beachvesp_01
+Ambient Male|a_m_y_beachvesp_02
+Ambient Male|a_m_y_bevhills_01
+Ambient Male|a_m_y_bevhills_02
+Ambient Male|a_m_y_breakdance_01
+Ambient Male|a_m_y_busicas_01
+Ambient Male|a_m_y_business_01
+Ambient Male|a_m_y_business_02
+Ambient Male|a_m_y_business_03
+Ambient Male|a_m_y_cyclist_01
+Ambient Male|a_m_y_dhill_01
+Ambient Male|a_m_y_downtown_01
+Ambient Male|a_m_y_eastsa_01
+Ambient Male|a_m_y_eastsa_02
+Ambient Male|a_m_y_epsilon_01
+Ambient Male|a_m_y_epsilon_02
+Ambient Male|a_m_y_gay_01
+Ambient Male|a_m_y_gay_02
+Ambient Male|a_m_y_genstreet_01
+Ambient Male|a_m_y_genstreet_02
+Ambient Male|a_m_y_golfer_01
+Ambient Male|a_m_y_hasjew_01
+Ambient Male|a_m_y_hiker_01
+Ambient Male|a_m_y_hippy_01
+Ambient Male|a_m_y_hipster_01
+Ambient Male|a_m_y_hipster_02
+Ambient Male|a_m_y_hipster_03
+Ambient Male|a_m_y_indian_01
+Ambient Male|a_m_y_jetski_01
+Ambient Male|a_m_y_juggalo_01
+Ambient Male|a_m_y_ktown_01
+Ambient Male|a_m_y_ktown_02
+Ambient Male|a_m_y_latino_01
+Ambient Male|a_m_y_methhead_01
+Ambient Male|a_m_y_mexthug_01
+Ambient Male|a_m_y_motox_01
+Ambient Male|a_m_y_motox_02
+Ambient Male|a_m_y_musclbeac_01
+Ambient Male|a_m_y_musclbeac_02
+Ambient Male|a_m_y_polynesian_01
+Ambient Male|a_m_y_roadcyc_01
+Ambient Male|a_m_y_runner_01
+Ambient Male|a_m_y_runner_02
+Ambient Male|a_m_y_salton_01
+Ambient Male|a_m_y_skater_01
+Ambient Male|a_m_y_skater_02
+Ambient Male|a_m_y_soucent_01
+Ambient Male|a_m_y_soucent_02
+Ambient Male|a_m_y_soucent_03
+Ambient Male|a_m_y_soucent_04
+Ambient Male|a_m_y_stbla_01
+Ambient Male|a_m_y_stbla_02
+Ambient Male|a_m_y_stlat_01
+Ambient Male|a_m_y_stwhi_01
+Ambient Male|a_m_y_stwhi_02
+Ambient Male|a_m_y_sunbathe_01
+Ambient Male|a_m_y_surfer_01
+Ambient Male|a_m_y_vindouche_01
+Ambient Male|a_m_y_vinewood_01
+Ambient Male|a_m_y_vinewood_02
+Ambient Male|a_m_y_vinewood_03
+Ambient Male|a_m_y_vinewood_04
+Ambient Male|a_m_y_yoga_01
+Animals|a_c_boar
+Animals|a_c_cat_01
+Animals|a_c_chickenhawk
+Animals|a_c_chimp
+Animals|a_c_chop
+Animals|a_c_cormorant
+Animals|a_c_cow
+Animals|a_c_coyote
+Animals|a_c_crow
+Animals|a_c_deer
+Animals|a_c_dolphin
+Animals|a_c_fish
+Animals|a_c_hen
+Animals|a_c_humpback
+Animals|a_c_husky
+Animals|a_c_killerwhale
+Animals|a_c_mtlion
+Animals|a_c_pig
+Animals|a_c_pigeon
+Animals|a_c_poodle
+Animals|a_c_pug
+Animals|a_c_rabbit_01
+Animals|a_c_rat
+Animals|a_c_retriever
+Animals|a_c_rhesus
+Animals|a_c_rottweiler
+Animals|a_c_seagull
+Animals|a_c_sharkhammer
+Animals|a_c_sharktiger
+Animals|a_c_shepherd
+Animals|a_c_stingray
+Animals|a_c_westy
+Gang Female|g_f_importexport_01
+Gang Female|g_f_m_fooliganz_01
+Gang Female|g_f_m_friedlandergoons_01
+Gang Female|g_f_m_undeadmage
+Gang Female|g_f_y_ballas_01
+Gang Female|g_f_y_families_01
+Gang Female|g_f_y_lost_01
+Gang Female|g_f_y_vagos_01
+Gang Male|g_m_importexport_01
+Gang Male|g_m_m_armboss_01
+Gang Male|g_m_m_armgoon_01
+Gang Male|g_m_m_armlieut_01
+Gang Male|g_m_m_cartelguards_01
+Gang Male|g_m_m_cartelguards_02
+Gang Male|g_m_m_casrn_01
+Gang Male|g_m_m_chemwork_01
+Gang Male|g_m_m_chiboss_01
+Gang Male|g_m_m_chicold_01
+Gang Male|g_m_m_chigoon_01
+Gang Male|g_m_m_chigoon_02
+Gang Male|g_m_m_fooliganz_01
+Gang Male|g_m_m_friedlandergoons_01
+Gang Male|g_m_m_genthug_01
+Gang Male|g_m_m_goons_01
+Gang Male|g_m_m_korboss_01
+Gang Male|g_m_m_mexboss_01
+Gang Male|g_m_m_mexboss_02
+Gang Male|g_m_y_armgoon_02
+Gang Male|g_m_y_azteca_01
+Gang Male|g_m_y_ballaeast_01
+Gang Male|g_m_y_ballaorig_01
+Gang Male|g_m_y_ballasout_01
+Gang Male|g_m_y_famca_01
+Gang Male|g_m_y_famdnf_01
+Gang Male|g_m_y_famfor_01
+Gang Male|g_m_y_korean_01
+Gang Male|g_m_y_korean_02
+Gang Male|g_m_y_korlieut_01
+Gang Male|g_m_y_lost_01
+Gang Male|g_m_y_lost_02
+Gang Male|g_m_y_lost_03
+Gang Male|g_m_y_mexgang_01
+Gang Male|g_m_y_mexgoon_01
+Gang Male|g_m_y_mexgoon_02
+Gang Male|g_m_y_mexgoon_03
+Gang Male|g_m_y_pologoon_01
+Gang Male|g_m_y_pologoon_02
+Gang Male|g_m_y_salvaboss_01
+Gang Male|g_m_y_salvagoon_01
+Gang Male|g_m_y_salvagoon_02
+Gang Male|g_m_y_salvagoon_03
+Gang Male|g_m_y_strpunk_01
+Gang Male|g_m_y_strpunk_02
+Multiplayer|mp_f_boatstaff_01
+Multiplayer|mp_f_cardesign_01
+Multiplayer|mp_f_chbar_01
+Multiplayer|mp_f_cocaine_01
+Multiplayer|mp_f_counterfeit_01
+Multiplayer|mp_f_deadhooker
+Multiplayer|mp_f_execpa_01
+Multiplayer|mp_f_execpa_02
+Multiplayer|mp_f_forgery_01
+Multiplayer|mp_f_freemode_01
+Multiplayer|mp_f_helistaff_01
+Multiplayer|mp_f_meth_01
+Multiplayer|mp_f_misty_01
+Multiplayer|mp_f_stripperlite
+Multiplayer|mp_f_weed_01
+Multiplayer|mp_g_m_pros_01
+Multiplayer|mp_headtargets
+Multiplayer|mp_m_avongoon
+Multiplayer|mp_m_boatstaff_01
+Multiplayer|mp_m_bogdangoon
+Multiplayer|mp_m_claude_01
+Multiplayer|mp_m_cocaine_01
+Multiplayer|mp_m_counterfeit_01
+Multiplayer|mp_m_exarmy_01
+Multiplayer|mp_m_execpa_01
+Multiplayer|mp_m_famdd_01
+Multiplayer|mp_m_fibsec_01
+Multiplayer|mp_m_forgery_01
+Multiplayer|mp_m_freemode_01
+Multiplayer|mp_m_g_vagfun_01
+Multiplayer|mp_m_marston_01
+Multiplayer|mp_m_meth_01
+Multiplayer|mp_m_niko_01
+Multiplayer|mp_m_securoguard_01
+Multiplayer|mp_m_shopkeep_01
+Multiplayer|mp_m_waremech_01
+Multiplayer|mp_m_weapexp_01
+Multiplayer|mp_m_weapwork_01
+Multiplayer|mp_m_weed_01
+Multiplayer|mp_s_m_armoured_01
+Scenario Female|s_f_m_fembarber
+Scenario Female|s_f_m_maid_01
+Scenario Female|s_f_m_shop_high
+Scenario Female|s_f_m_sweatshop_01
+Scenario Female|s_f_y_airhostess_01
+Scenario Female|s_f_y_bartender_01
+Scenario Female|s_f_y_baywatch_01
+Scenario Female|s_f_y_beachbarstaff_01
+Scenario Female|s_f_y_casino_01
+Scenario Female|s_f_y_clubbar_01
+Scenario Female|s_f_y_cop_01
+Scenario Female|s_f_y_factory_01
+Scenario Female|s_f_y_hooker_01
+Scenario Female|s_f_y_hooker_02
+Scenario Female|s_f_y_hooker_03
+Scenario Female|s_f_y_migrant_01
+Scenario Female|s_f_y_movprem_01
+Scenario Female|s_f_y_ranger_01
+Scenario Female|s_f_y_scrubs_01
+Scenario Female|s_f_y_sheriff_01
+Scenario Female|s_f_y_shop_low
+Scenario Female|s_f_y_shop_mid
+Scenario Female|s_f_y_stripper_01
+Scenario Female|s_f_y_stripper_02
+Scenario Female|s_f_y_stripperlite
+Scenario Female|s_f_y_sweatshop_01
+Scenario Male|s_m_m_ammucountry
+Scenario Male|s_m_m_armoured_01
+Scenario Male|s_m_m_armoured_02
+Scenario Male|s_m_m_autoshop_01
+Scenario Male|s_m_m_autoshop_02
+Scenario Male|s_m_m_bouncer_01
+Scenario Male|s_m_m_bouncer_02
+Scenario Male|s_m_m_ccrew_01
+Scenario Male|s_m_m_chemsec_01
+Scenario Male|s_m_m_ciasec_01
+Scenario Male|s_m_m_cntrybar_01
+Scenario Male|s_m_m_dockwork_01
+Scenario Male|s_m_m_doctor_01
+Scenario Male|s_m_m_drugprocess_01
+Scenario Male|s_m_m_fiboffice_01
+Scenario Male|s_m_m_fiboffice_02
+Scenario Male|s_m_m_fibsec_01
+Scenario Male|s_m_m_gaffer_01
+Scenario Male|s_m_m_gardener_01
+Scenario Male|s_m_m_gentransport
+Scenario Male|s_m_m_hairdress_01
+Scenario Male|s_m_m_highsec_01
+Scenario Male|s_m_m_highsec_02
+Scenario Male|s_m_m_highsec_03
+Scenario Male|s_m_m_highsec_04
+Scenario Male|s_m_m_janitor
+Scenario Male|s_m_m_lathandy_01
+Scenario Male|s_m_m_lifeinvad_01
+Scenario Male|s_m_m_linecook
+Scenario Male|s_m_m_lsmetro_01
+Scenario Male|s_m_m_mariachi_01
+Scenario Male|s_m_m_marine_01
+Scenario Male|s_m_m_marine_02
+Scenario Male|s_m_m_migrant_01
+Scenario Male|s_m_m_movalien_01
+Scenario Male|s_m_m_movprem_01
+Scenario Male|s_m_m_movspace_01
+Scenario Male|s_m_m_paramedic_01
+Scenario Male|s_m_m_pilot_01
+Scenario Male|s_m_m_pilot_02
+Scenario Male|s_m_m_postal_01
+Scenario Male|s_m_m_postal_02
+Scenario Male|s_m_m_prisguard_01
+Scenario Male|s_m_m_raceorg_01
+Scenario Male|s_m_m_scientist_01
+Scenario Male|s_m_m_security_01
+Scenario Male|s_m_m_snowcop_01
+Scenario Male|s_m_m_strperf_01
+Scenario Male|s_m_m_strpreach_01
+Scenario Male|s_m_m_strvend_01
+Scenario Male|s_m_m_studioassist_01
+Scenario Male|s_m_m_studioprod_01
+Scenario Male|s_m_m_trucker_01
+Scenario Male|s_m_m_ups_01
+Scenario Male|s_m_m_ups_02
+Scenario Male|s_m_o_busker_01
+Scenario Male|s_m_y_airworker
+Scenario Male|s_m_y_ammucity_01
+Scenario Male|s_m_y_armymech_01
+Scenario Male|s_m_y_autopsy_01
+Scenario Male|s_m_y_barman_01
+Scenario Male|s_m_y_baywatch_01
+Scenario Male|s_m_y_blackops_01
+Scenario Male|s_m_y_blackops_02
+Scenario Male|s_m_y_blackops_03
+Scenario Male|s_m_y_busboy_01
+Scenario Male|s_m_y_casino_01
+Scenario Male|s_m_y_chef_01
+Scenario Male|s_m_y_clown_01
+Scenario Male|s_m_y_clubbar_01
+Scenario Male|s_m_y_construct_01
+Scenario Male|s_m_y_construct_02
+Scenario Male|s_m_y_cop_01
+Scenario Male|s_m_y_dealer_01
+Scenario Male|s_m_y_devinsec_01
+Scenario Male|s_m_y_dockwork_01
+Scenario Male|s_m_y_doorman_01
+Scenario Male|s_m_y_dwservice_01
+Scenario Male|s_m_y_dwservice_02
+Scenario Male|s_m_y_factory_01
+Scenario Male|s_m_y_fireman_01
+Scenario Male|s_m_y_garbage
+Scenario Male|s_m_y_grip_01
+Scenario Male|s_m_y_hwaycop_01
+Scenario Male|s_m_y_marine_01
+Scenario Male|s_m_y_marine_02
+Scenario Male|s_m_y_marine_03
+Scenario Male|s_m_y_mime
+Scenario Male|s_m_y_pestcont_01
+Scenario Male|s_m_y_pilot_01
+Scenario Male|s_m_y_prismuscl_01
+Scenario Male|s_m_y_prisoner_01
+Scenario Male|s_m_y_ranger_01
+Scenario Male|s_m_y_robber_01
+Scenario Male|s_m_y_sheriff_01
+Scenario Male|s_m_y_shop_mask
+Scenario Male|s_m_y_strvend_01
+Scenario Male|s_m_y_swat_01
+Scenario Male|s_m_y_uscg_01
+Scenario Male|s_m_y_valet_01
+Scenario Male|s_m_y_waiter_01
+Scenario Male|s_m_y_waretech_01
+Scenario Male|s_m_y_westsec_01
+Scenario Male|s_m_y_westsec_02
+Scenario Male|s_m_y_winclean_01
+Scenario Male|s_m_y_xmech_01
+Scenario Male|s_m_y_xmech_02
+Story|ig_abigail
+Story|ig_agatha
+Story|ig_agent
+Story|ig_agent_02
+Story|ig_amandatownley
+Story|ig_andreas
+Story|ig_ashley
+Story|ig_avon
+Story|ig_ballasog
+Story|ig_bankman
+Story|ig_barry
+Story|ig_benny
+Story|ig_bestmen
+Story|ig_beverly
+Story|ig_brad
+Story|ig_bride
+Story|ig_car3guy1
+Story|ig_car3guy2
+Story|ig_casey
+Story|ig_chef
+Story|ig_chef2
+Story|ig_chengsr
+Story|ig_chrisformage
+Story|ig_clay
+Story|ig_claypain
+Story|ig_cletus
+Story|ig_dale
+Story|ig_davenorton
+Story|ig_denise
+Story|ig_devin
+Story|ig_dom
+Story|ig_dreyfuss
+Story|ig_drfriedlander
+Story|ig_englishdave
+Story|ig_fabien
+Story|ig_fbisuit_01
+Story|ig_floyd
+Story|ig_g
+Story|ig_georginacheng
+Story|ig_groom
+Story|ig_hao
+Story|ig_hunter
+Story|ig_janet
+Story|ig_jay_norris
+Story|ig_jewelass
+Story|ig_jimmyboston
+Story|ig_jimmyboston_02
+Story|ig_jimmydisanto
+Story|ig_joeminuteman
+Story|ig_johnnyklebitz
+Story|ig_josef
+Story|ig_josh
+Story|ig_karen_daniels
+Story|ig_kerrymcintosh
+Story|ig_lacey_jones_02
+Story|ig_lamardavis
+Story|ig_lamardavis_02
+Story|ig_lazlow
+Story|ig_lestercrest
+Story|ig_lestercrest_2
+Story|ig_lestercrest_3
+Story|ig_lifeinvad_01
+Story|ig_lifeinvad_02
+Story|ig_magenta
+Story|ig_malc
+Story|ig_manuel
+Story|ig_marnie
+Story|ig_maryann
+Story|ig_maude
+Story|ig_michelle
+Story|ig_milton
+Story|ig_molly
+Story|ig_money
+Story|ig_mp_agent14
+Story|ig_mrk
+Story|ig_mrs_thornhill
+Story|ig_mrsphillips
+Story|ig_natalia
+Story|ig_nervousron
+Story|ig_nigel
+Story|ig_old_man1a
+Story|ig_old_man2
+Story|ig_omega
+Story|ig_oneil
+Story|ig_orleans
+Story|ig_ortega
+Story|ig_paige
+Story|ig_paper
+Story|ig_patricia
+Story|ig_popov
+Story|ig_priest
+Story|ig_prolsec_02
+Story|ig_ramp_gang
+Story|ig_ramp_hic
+Story|ig_ramp_hipster
+Story|ig_ramp_mex
+Story|ig_roccopelosi
+Story|ig_russiandrunk
+Story|ig_sacha
+Story|ig_screen_writer
+Story|ig_siemonyetarian
+Story|ig_solomon
+Story|ig_stevehains
+Story|ig_stretch
+Story|ig_talcc
+Story|ig_talina
+Story|ig_tanisha
+Story|ig_taocheng
+Story|ig_taocheng2
+Story|ig_taostranslator
+Story|ig_taostranslator2
+Story|ig_tenniscoach
+Story|ig_terry
+Story|ig_tomepsilon
+Story|ig_tonya
+Story|ig_tonyprince
+Story|ig_tracydisanto
+Story|ig_trafficwarden
+Story|ig_tylerdix
+Story|ig_tylerdix_02
+Story|ig_vagspeak
+Story|ig_wade
+Story|ig_zimbor
+Story|player_one
+Story|player_two
+Story|player_zero
+Story Scenario Female|u_f_m_casinocash_01
+Story Scenario Female|u_f_m_casinoshop_01
+Story Scenario Female|u_f_m_corpse_01
+Story Scenario Female|u_f_m_debbie_01
+Story Scenario Female|u_f_m_drowned_01
+Story Scenario Female|u_f_m_miranda
+Story Scenario Female|u_f_m_promourn_01
+Story Scenario Female|u_f_o_carol
+Story Scenario Female|u_f_o_eileen
+Story Scenario Female|u_f_o_moviestar
+Story Scenario Female|u_f_o_prolhost_01
+Story Scenario Female|u_f_y_beth
+Story Scenario Female|u_f_y_bikerchic
+Story Scenario Female|u_f_y_comjane
+Story Scenario Female|u_f_y_corpse_01
+Story Scenario Female|u_f_y_corpse_02
+Story Scenario Female|u_f_y_danceburl_01
+Story Scenario Female|u_f_y_dancelthr_01
+Story Scenario Female|u_f_y_dancerave_01
+Story Scenario Female|u_f_y_hotposh_01
+Story Scenario Female|u_f_y_jewelass_01
+Story Scenario Female|u_f_y_mistress
+Story Scenario Female|u_f_y_poppymich
+Story Scenario Female|u_f_y_poppymich_02
+Story Scenario Female|u_f_y_princess
+Story Scenario Female|u_f_y_spyactress
+Story Scenario Female|u_f_y_taylor
+Story Scenario Male|u_m_m_aldinapoli
+Story Scenario Male|u_m_m_bankman
+Story Scenario Male|u_m_m_bikehire_01
+Story Scenario Male|u_m_m_blane
+Story Scenario Male|u_m_m_curtis
+Story Scenario Male|u_m_m_doa_01
+Story Scenario Male|u_m_m_edtoh
+Story Scenario Male|u_m_m_fibarchitect
+Story Scenario Male|u_m_m_filmdirector
+Story Scenario Male|u_m_m_glenstank_01
+Story Scenario Male|u_m_m_griff_01
+Story Scenario Male|u_m_m_jesus_01
+Story Scenario Male|u_m_m_jewelsec_01
+Story Scenario Male|u_m_m_jewelthief
+Story Scenario Male|u_m_m_markfost
+Story Scenario Male|u_m_m_partytarget
+Story Scenario Male|u_m_m_prolsec_01
+Story Scenario Male|u_m_m_promourn_01
+Story Scenario Male|u_m_m_rivalpap
+Story Scenario Male|u_m_m_spyactor
+Story Scenario Male|u_m_m_streetart_01
+Story Scenario Male|u_m_m_vince
+Story Scenario Male|u_m_m_willyfist
+Story Scenario Male|u_m_o_dean
+Story Scenario Male|u_m_o_filmnoir
+Story Scenario Male|u_m_o_finguru_01
+Story Scenario Male|u_m_o_taphillbilly
+Story Scenario Male|u_m_o_tramp_01
+Story Scenario Male|u_m_y_abner
+Story Scenario Male|u_m_y_antonb
+Story Scenario Male|u_m_y_babyd
+Story Scenario Male|u_m_y_baygor
+Story Scenario Male|u_m_y_burgerdrug_01
+Story Scenario Male|u_m_y_caleb
+Story Scenario Male|u_m_y_chip
+Story Scenario Male|u_m_y_corpse_01
+Story Scenario Male|u_m_y_croupthief_01
+Story Scenario Male|u_m_y_cyclist_01
+Story Scenario Male|u_m_y_danceburl_01
+Story Scenario Male|u_m_y_dancelthr_01
+Story Scenario Male|u_m_y_dancerave_01
+Story Scenario Male|u_m_y_fibmugger_01
+Story Scenario Male|u_m_y_gabriel
+Story Scenario Male|u_m_y_guido_01
+Story Scenario Male|u_m_y_gunvend_01
+Story Scenario Male|u_m_y_hippie_01
+Story Scenario Male|u_m_y_imporage
+Story Scenario Male|u_m_y_juggernaut_01
+Story Scenario Male|u_m_y_justin
+Story Scenario Male|u_m_y_mani
+Story Scenario Male|u_m_y_militarybum
+Story Scenario Male|u_m_y_paparazzi
+Story Scenario Male|u_m_y_party_01
+Story Scenario Male|u_m_y_pogo_01
+Story Scenario Male|u_m_y_prisoner_01
+Story Scenario Male|u_m_y_proldriver_01
+Story Scenario Male|u_m_y_rsranger_01
+Story Scenario Male|u_m_y_sbike
+Story Scenario Male|u_m_y_smugmech_01
+Story Scenario Male|u_m_y_staggrm_01
+Story Scenario Male|u_m_y_tattoo_01
+Story Scenario Male|u_m_y_zombie_01
+Cutscene|cs_amandatownley
+Cutscene|cs_andreas
+Cutscene|cs_ashley
+Cutscene|cs_bankman
+Cutscene|cs_barry
+Cutscene|cs_beverly
+Cutscene|cs_brad
+Cutscene|cs_bradcadaver
+Cutscene|cs_carbuyer
+Cutscene|cs_casey
+Cutscene|cs_chengsr
+Cutscene|cs_chrisformage
+Cutscene|cs_clay
+Cutscene|cs_dale
+Cutscene|cs_davenorton
+Cutscene|cs_debra
+Cutscene|cs_denise
+Cutscene|cs_devin
+Cutscene|cs_dom
+Cutscene|cs_dreyfuss
+Cutscene|cs_drfriedlander
+Cutscene|cs_fabien
+Cutscene|cs_fbisuit_01
+Cutscene|cs_floyd
+Cutscene|cs_guadalope
+Cutscene|cs_gurk
+Cutscene|cs_hunter
+Cutscene|cs_janet
+Cutscene|cs_jewelass
+Cutscene|cs_jimmyboston
+Cutscene|cs_jimmydisanto
+Cutscene|cs_joeminuteman
+Cutscene|cs_johnnyklebitz
+Cutscene|cs_josef
+Cutscene|cs_josh
+Cutscene|cs_karen_daniels
+Cutscene|cs_lamardavis
+Cutscene|cs_lazlow
+Cutscene|cs_lestercrest
+Cutscene|cs_lifeinvad_01
+Cutscene|cs_magenta
+Cutscene|cs_manuel
+Cutscene|cs_marnie
+Cutscene|cs_martinmadrazo
+Cutscene|cs_maryann
+Cutscene|cs_maude
+Cutscene|cs_michelle
+Cutscene|cs_milton
+Cutscene|cs_molly
+Cutscene|cs_movpremf_01
+Cutscene|cs_movpremmale
+Cutscene|cs_mrk
+Cutscene|cs_mrs_thornhill
+Cutscene|cs_mrsphillips
+Cutscene|cs_natalia
+Cutscene|cs_nervousron
+Cutscene|cs_nigel
+Cutscene|cs_old_man1a
+Cutscene|cs_old_man2
+Cutscene|cs_omega
+Cutscene|cs_orleans
+Cutscene|cs_paper
+Cutscene|cs_patricia
+Cutscene|cs_priest
+Cutscene|cs_prolsec_02
+Cutscene|cs_russiandrunk
+Cutscene|cs_screen_writer
+Cutscene|cs_siemonyetarian
+Cutscene|cs_solomon
+Cutscene|cs_stevehains
+Cutscene|cs_stretch
+Cutscene|cs_tanisha
+Cutscene|cs_taocheng
+Cutscene|cs_taostranslator
+Cutscene|cs_tenniscoach
+Cutscene|cs_terry
+Cutscene|cs_tom
+Cutscene|cs_tomepsilon
+Cutscene|cs_tonya
+Cutscene|cs_tracydisanto
+Cutscene|cs_wade
+Cutscene|cs_zimbor

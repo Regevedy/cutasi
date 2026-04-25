@@ -1,0 +1,2 @@
+; Cao Urban Trainer preset storage.
+; Created/updated by the trainer from F5 -> Trainer Presets.

@@ -1,0 +1,46 @@
+# Cao Urban Trainer ASI v1.0 Object Catalog
+# Format: Category|modelName|Display Name
+
+Ramps|prop_mp_ramp_01|Small Ramp
+Ramps|prop_mp_ramp_02|Medium Ramp
+Ramps|prop_mp_ramp_03|Large Ramp
+Ramps|prop_mp_ramp_04|Wide Ramp
+Ramps|stt_prop_ramp_adj_flip_m|Stunt Flip Ramp
+Ramps|stt_prop_ramp_adj_flip_mb|Stunt Flip Ramp B
+Ramps|stt_prop_ramp_adj_loop|Stunt Loop Ramp
+Ramps|stt_prop_ramp_jump_m|Stunt Jump Ramp
+Ramps|stt_prop_ramp_spiral_l|Stunt Spiral Ramp
+
+Barriers|prop_barrier_work05|Work Barrier
+Barriers|prop_mp_barrier_02b|Police Barrier
+Barriers|prop_barrier_work01a|Road Work Barrier
+Barriers|prop_plas_barier_01a|Plastic Barrier
+Barriers|prop_consign_02a|Construction Sign
+Barriers|prop_roadcone02a|Road Cone
+Barriers|prop_air_conelight|Airfield Cone Light
+Barriers|prop_mp_cone_01|Traffic Cone
+
+Containers|prop_container_01a|Container 01
+Containers|prop_container_03a|Container 03
+Containers|prop_container_05a|Container 05
+Containers|prop_boxpile_06b|Box Pile
+Containers|prop_crate_11e|Wood Crate
+Containers|prop_mil_crate_01|Military Crate
+Containers|prop_dumpster_01a|Dumpster
+
+Props|prop_bench_01a|Bench
+Props|prop_chair_01a|Chair
+Props|prop_table_03|Table
+Props|prop_toolchest_05|Tool Chest
+Props|prop_ld_fireaxe|Fire Axe Prop
+Props|prop_ld_jerrycan_01|Jerry Can
+Props|prop_beach_fire|Beach Fire
+Props|prop_gazebo_02|Gazebo
+Props|prop_skate_flatramp|Skate Flat Ramp
+
+Lights|prop_worklight_03b|Work Light
+Lights|prop_worklight_04b|Work Light Tall
+Lights|prop_studio_light_01|Studio Light
+Lights|prop_generator_03b|Generator
+Lights|prop_air_lights_02a|Airfield Light
+Lights|prop_air_lights_05a|Airfield Light 2
