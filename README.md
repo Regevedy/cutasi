@@ -1,10 +1,10 @@
-# Cao Urban Trainer ASI v1.0
+# Cao Urban Trainer ASI v1.6
 
 **Author:** CaoK1d13  
 **Platform:** GTA V Story Mode / Offline  
 **Format:** native ScriptHookV `.asi` source project
 
-Cao Urban Trainer ASI v1.0 is a full offline sandbox trainer for GTA V Story Mode. It includes player tools, weapons, vehicles, NPC control, bodyguards, garage, battle arena, mission/scenario creator, object placement, cinematic tools, world controls, teleport tools, presets, and multi-language support.
+Cao Urban Trainer ASI v1.6 is a full offline sandbox trainer for GTA V Story Mode. It includes player tools, weapons, vehicles, NPC control, bodyguards, garage, battle arena, mission/scenario creator, object placement, cinematic tools, world controls, teleport tools, presets, and multi-language support.
 
 ## Important
 
