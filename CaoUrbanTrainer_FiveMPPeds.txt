@@ -1,0 +1,7 @@
+# Cao Urban Trainer FiveMP/FiveM ped bridge
+# Format: Category|Model|Display
+# Put custom FiveMP/FiveM ped spawn names here after installing the streamed asset/DLC pack.
+# Example:
+# FiveMP Custom Peds|my_custom_ped|My Custom Ped
+FiveMP Freemode|mp_m_freemode_01|MP Male Freemode
+FiveMP Freemode|mp_f_freemode_01|MP Female Freemode

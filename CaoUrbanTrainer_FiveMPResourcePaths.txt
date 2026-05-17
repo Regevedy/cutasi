@@ -1,0 +1,8 @@
+# Cao Urban Trainer FiveMP/FiveM resource folder scanner
+# Add one absolute or GTA-root-relative folder/file path per line.
+# The scanner reads file names from .yft/.ydr/.ydd/.ymt assets and merges spawn names into the trainer catalogs.
+# .yft is classified as vehicle unless path/model looks like a ped; .ydd/.ymt are ped-only when path/model looks like a ped; .ydr is object.
+# Examples:
+# D:\FiveMResources\cars
+# D:\FiveMResources\peds
+# FiveMP_resources

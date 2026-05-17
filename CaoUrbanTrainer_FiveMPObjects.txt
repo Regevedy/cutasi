@@ -1,0 +1,5 @@
+# Cao Urban Trainer FiveMP/FiveM object bridge
+# Format: Category|Model|Display
+# Put custom FiveMP/FiveM prop/object spawn names here after installing the streamed asset/DLC pack.
+# Example:
+# FiveMP Props|my_custom_prop|My Custom Prop

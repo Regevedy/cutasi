@@ -1,0 +1,5 @@
+# Cao Urban Trainer FiveMP/FiveM vehicle bridge
+# Format: Category|Model|Display
+# Put custom FiveMP/FiveM vehicle spawn names here after installing the streamed asset/DLC pack.
+# Example:
+# FiveMP Add-On Cars|my_addon_car|My Add-On Car

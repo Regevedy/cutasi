@@ -1,0 +1,110 @@
+# Cao Urban Trainer ASI v1.6 Object Catalog
+# Format: Category|modelName|Display Name
+
+Ramps|prop_mp_ramp_01|Small Ramp
+Ramps|prop_mp_ramp_02|Medium Ramp
+Ramps|prop_mp_ramp_03|Large Ramp
+Ramps|prop_mp_ramp_04|Wide Ramp
+Ramps|stt_prop_ramp_adj_flip_m|Stunt Flip Ramp
+Ramps|stt_prop_ramp_adj_flip_mb|Stunt Flip Ramp B
+Ramps|stt_prop_ramp_adj_loop|Stunt Loop Ramp
+Ramps|stt_prop_ramp_jump_m|Stunt Jump Ramp
+Ramps|stt_prop_ramp_spiral_l|Stunt Spiral Ramp
+
+Barriers|prop_barrier_work05|Work Barrier
+Barriers|prop_mp_barrier_02b|Police Barrier
+Barriers|prop_barrier_work01a|Road Work Barrier
+Barriers|prop_plas_barier_01a|Plastic Barrier
+Barriers|prop_consign_02a|Construction Sign
+Barriers|prop_roadcone02a|Road Cone
+Barriers|prop_air_conelight|Airfield Cone Light
+Barriers|prop_mp_cone_01|Traffic Cone
+
+Containers|prop_container_01a|Container 01
+Containers|prop_container_03a|Container 03
+Containers|prop_container_05a|Container 05
+Containers|prop_boxpile_06b|Box Pile
+Containers|prop_crate_11e|Wood Crate
+Containers|prop_mil_crate_01|Military Crate
+Containers|prop_dumpster_01a|Dumpster
+
+Props|prop_bench_01a|Bench
+Props|prop_chair_01a|Chair
+Props|prop_table_03|Table
+Props|prop_toolchest_05|Tool Chest
+Props|prop_ld_fireaxe|Fire Axe Prop
+Props|prop_ld_jerrycan_01|Jerry Can
+Props|prop_beach_fire|Beach Fire
+Props|prop_gazebo_02|Gazebo
+Props|prop_skate_flatramp|Skate Flat Ramp
+
+Lights|prop_worklight_03b|Work Light
+Lights|prop_worklight_04b|Work Light Tall
+Lights|prop_studio_light_01|Studio Light
+Lights|prop_generator_03b|Generator
+Lights|prop_air_lights_02a|Airfield Light
+Lights|prop_air_lights_05a|Airfield Light 2
+
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_alphasign_01a|Alpha Sign 01A
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_alphasign_02a|Alpha Sign 02A
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_binbag_01a|Bin Bag 01A
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_business_card_01a|Business Card
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_c4_bomb_01a|C4 Bomb
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_cathouse|Cat House
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_clothesscattered|Scattered Clothes
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_desk_01a|Mansion Desk
+A Safehouse in the Hills / Security|m25_2_prop_m52_diagnosticstation_01a|Diagnostic Station
+A Safehouse in the Hills / Security|m25_2_prop_m52_elecbox_01a|Electric Box 01A
+A Safehouse in the Hills / Security|m25_2_prop_m52_fakebloodcan_hl_01a|Fake Blood Can
+A Safehouse in the Hills / Security|m25_2_prop_m52_fibroofexit|FIB Roof Exit
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_floor_01a|Mansion Floor
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_folder_01a|Folder 01A
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_junk_letters_01a|Junk Letters
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_kennel_01a|Kennel
+A Safehouse in the Hills / Security|m25_2_prop_m52_keypad_01a|Keypad 01A
+A Safehouse in the Hills / Security|m25_2_prop_m52_keypad_02a|Keypad 02A
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_knot_01a|Knot
+A Safehouse in the Hills / Documents|m25_2_prop_m52_manual_01a|Manual 01A
+A Safehouse in the Hills / Documents|m25_2_prop_m52_manual_01b|Manual 01B
+A Safehouse in the Hills / Documents|m25_2_prop_m52_manual_02a|Manual 02A
+A Safehouse in the Hills / Documents|m25_2_prop_m52_manual_02b|Manual 02B
+A Safehouse in the Hills / Documents|m25_2_prop_m52_manual_03a|Manual 03A
+A Safehouse in the Hills / Documents|m25_2_prop_m52_manual_03b|Manual 03B
+A Safehouse in the Hills / Security|m25_2_prop_m52_metalboxsmall_01a|Small Metal Box
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_metalpen_01a|Metal Pen
+A Safehouse in the Hills / Metro|m25_2_prop_m52_metrobranding_01a|Metro Branding
+A Safehouse in the Hills / Metro|m25_2_prop_m52_metrocabin_01a|Metro Cabin
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_offshelfdark|Dark Shelf
+A Safehouse in the Hills / Paintings|m25_2_prop_m52_paintcheater_01a|Paint Cheater 01A
+A Safehouse in the Hills / Paintings|m25_2_prop_m52_paintcheater_02a|Paint Cheater 02A
+A Safehouse in the Hills / Paintings|m25_2_prop_m52_paintcheater_03a|Paint Cheater 03A
+A Safehouse in the Hills / Documents|m25_2_prop_m52_pass_lsds_01a|LSDS Pass
+A Safehouse in the Hills / Security|m25_2_prop_m52_police_badge|Police Badge
+A Safehouse in the Hills / Ramps|m25_2_prop_m52_ramp_01a|Mansion Ramp
+A Safehouse in the Hills / Security|m25_2_prop_m52_securitypanel_01a|Security Panel 01A
+A Safehouse in the Hills / Security|m25_2_prop_m52_securitypanel_02a|Security Panel 02A
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_suitcaseclothes|Suitcase Clothes
+A Safehouse in the Hills / Branding|m25_2_prop_m52_thrustlsmlogo_01a|Thrust LSM Logo
+A Safehouse in the Hills / Security|m25_2_prop_m52_torturecage_01a|Torture Cage
+A Safehouse in the Hills / Security|m25_2_prop_m52_usbhack_01a|USB Hack
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_wareshelf_01a|Warehouse Shelf
+A Safehouse in the Hills / Accessories|m25_2_prop_m52_wire_01a|Wire 01A
+A Safehouse in the Hills / Cash|m25_2_prop_m52_cash_note_01a|Cash Note
+A Safehouse in the Hills / Cash|m25_2_prop_m52_cash_stack_01a|Cash Stack
+A Safehouse in the Hills / Cash|m25_2_prop_m52_cash_trolley_lrg_full|Large Cash Trolley Full
+A Safehouse in the Hills / Cash|m25_2_prop_m52_cash_trolley_lrg_half|Large Cash Trolley Half
+A Safehouse in the Hills / Cash|m25_2_prop_m52_cash_trolly_01a|Cash Trolley 01A
+A Safehouse in the Hills / Cash|m25_2_prop_m52_cash_trolly_empty|Cash Trolley Empty
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_cigar_lit|Lit Cigar
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_cockshaker_01a|Cocktail Shaker
+A Safehouse in the Hills / Mansion|m25_2_prop_m52_cocktail|Cocktail
+A Safehouse in the Hills / Security|m25_2_prop_m52_elecbox_02a|Electric Box 02A
+A Safehouse in the Hills / Cash|m25_2_prop_m52_goldtrolley_full|Gold Trolley Full
+A Safehouse in the Hills / Cash|m25_2_prop_m52_goldtrolly_half|Gold Trolley Half
+A Safehouse in the Hills / Studio|m25_2_prop_m52_greenscreen_01a|Green Screen
+A Safehouse in the Hills / Furniture|m25_2_prop_m52_sofa_corner_01a|Corner Sofa
+A Safehouse in the Hills / Furniture|m25_2_prop_m52_sofa_round_01a|Round Sofa
+A Safehouse in the Hills / Furniture|m25_2_prop_m52_sofa_small_01a|Small Sofa
+A Safehouse in the Hills / Furniture|m25_2_prop_m52_table_round_01a|Round Table
+A Safehouse in the Hills / Furniture|m25_2_prop_m52_table_square_01a|Square Table
+A Safehouse in the Hills / Payphone|m25_2_prop_m52_phonebox_01a|Phone Box 01A

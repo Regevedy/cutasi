@@ -1,0 +1,4 @@
+; Cao Urban Trainer preset storage.
+; Preset names are stored as UTF-8 and may use any supported trainer language.
+; AUTO_LOAD_SLOT=0 disables preset autoload.
+AUTO_LOAD_SLOT=0

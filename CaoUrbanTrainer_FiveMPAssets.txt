@@ -1,0 +1,7 @@
+# Cao Urban Trainer generic FiveMP/FiveM asset bridge
+# Format: Type|Category|Model|Display
+# Type supports: ped, vehicle, object
+# Examples:
+# vehicle|FiveMP Add-On Cars|my_addon_car|My Add-On Car
+# ped|FiveMP Custom Peds|my_custom_ped|My Custom Ped
+# object|FiveMP Props|my_custom_prop|My Custom Prop

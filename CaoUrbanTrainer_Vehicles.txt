@@ -1,0 +1,191 @@
+# Cao Urban Trainer vehicle catalog
+# Format: Category|spawn_name|Display Name
+# Categories used by trainer: Land, Air, Water, Add-On
+Land|adder|Adder
+Land|zentorno|Zentorno
+Land|t20|T20
+Land|turismor|Turismo R
+Land|osiris|Osiris
+Land|entityxf|Entity XF
+Land|cheetah|Cheetah
+Land|infernus|Infernus
+Land|vacca|Vacca
+Land|bullet|Bullet
+Land|banshee|Banshee
+Land|banshee2|Banshee 900R
+Land|sultan|Sultan
+Land|sultanrs|Sultan RS
+Land|elegy2|Elegy RH8
+Land|jester|Jester
+Land|jester2|Jester Racecar
+Land|jester3|Jester Classic
+Land|massacro|Massacro
+Land|comet2|Comet
+Land|comet3|Comet Retro
+Land|comet4|Comet Safari
+Land|comet5|Comet SR
+Land|feltzer2|Feltzer
+Land|kuruma|Kuruma
+Land|kuruma2|Armored Kuruma
+Land|dominator|Dominator
+Land|gauntlet|Gauntlet
+Land|dukes|Dukes
+Land|buffalo|Buffalo
+Land|buffalo2|Buffalo S
+Land|schafter3|Schafter V12
+Land|tailgater|Tailgater
+Land|oracle|Oracle
+Land|oracle2|Oracle XS
+Land|fugitive|Fugitive
+Land|asea|Asea
+Land|intruder|Intruder
+Land|premier|Premier
+Land|primo|Primo
+Land|stanier|Stanier
+Land|washington|Washington
+Land|baller|Baller
+Land|baller2|Baller 2
+Land|dubsta|Dubsta
+Land|dubsta2|Dubsta 2
+Land|dubsta3|Dubsta 6x6
+Land|granger|Granger
+Land|huntley|Huntley S
+Land|landstalker|Landstalker
+Land|patriot|Patriot
+Land|rocoto|Rocoto
+Land|mesa|Mesa
+Land|mesa3|Mesa Merryweather
+Land|bfinjection|BF Injection
+Land|bifta|Bifta
+Land|blazer|Blazer
+Land|rebel|Rebel
+Land|rebel2|Clean Rebel
+Land|sandking|Sandking XL
+Land|sandking2|Sandking SWB
+Land|monster|Monster Truck
+Land|guardian|Guardian
+Land|insurgent|Insurgent
+Land|insurgent2|Insurgent Pickup
+Land|technical|Technical
+Land|rhino|Rhino Tank
+Land|barrage|Barrage
+Land|khanjali|Khanjali
+Land|akuma|Akuma
+Land|bati|Bati 801
+Land|bati2|Bati 801RR
+Land|carbonrs|Carbon RS
+Land|double|Double-T
+Land|hakuchou|Hakuchou
+Land|lectro|Lectro
+Land|nemesis|Nemesis
+Land|pcj|PCJ 600
+Land|ruffian|Ruffian
+Land|sanchez|Sanchez
+Land|vader|Vader
+Land|zombiea|Zombie Bobber
+Land|faggio2|Faggio
+Land|bus|Bus
+Land|taxi|Taxi
+Land|police|Police Cruiser
+Land|police2|Police Buffalo
+Land|police3|Police Interceptor
+Land|police4|Unmarked Cruiser
+Land|fbi|FIB Buffalo
+Land|fbi2|FIB Granger
+Land|ambulance|Ambulance
+Land|firetruk|Fire Truck
+Land|riot|Riot Van
+Land|mule|Mule
+Land|benson|Benson
+Land|phantom|Phantom
+Land|packer|Packer
+Land|hauler|Hauler
+Land|barracks|Barracks
+Land|crusader|Crusader
+Land|dump|Dump
+Land|bulldozer|Bulldozer
+Land|forklift|Forklift
+Land|mower|Mower
+Land|towtruck|Towtruck
+Land|tractor|Tractor
+Land|slamvan|Slamvan
+Land|burrito|Burrito
+Land|minivan|Minivan
+Land|pony|Pony
+Land|rumpo|Rumpo
+Land|speedo|Speedo
+Land|surfer|Surfer
+Land|youga|Youga
+Air|buzzard|Buzzard
+Air|buzzard2|Buzzard Attack
+Air|frogger|Frogger
+Air|frogger2|Frogger 2
+Air|maverick|Maverick
+Air|polmav|Police Maverick
+Air|swift|Swift
+Air|supervolito|SuperVolito
+Air|volatus|Volatus
+Air|cargobob|Cargobob
+Air|cargobob2|Cargobob Jetsam
+Air|annihilator|Annihilator
+Air|annihilator2|Annihilator Stealth
+Air|savage|Savage
+Air|akula|Akula
+Air|hunter|Hunter
+Air|seasparrow|Sea Sparrow
+Air|alphaz1|Alpha-Z1
+Air|cuban800|Cuban 800
+Air|dodo|Dodo
+Air|duster|Duster
+Air|luxor|Luxor
+Air|luxor2|Luxor Deluxe
+Air|mammatus|Mammatus
+Air|miljet|Miljet
+Air|nimbus|Nimbus
+Air|shamal|Shamal
+Air|stunt|Stunt Plane
+Air|titan|Titan
+Air|velum|Velum
+Air|velum2|Velum 5-Seater
+Air|vestra|Vestra
+Air|hydra|Hydra
+Air|lazer|P-996 LAZER
+Air|besra|Besra
+Air|molotok|V-65 Molotok
+Air|pyro|Pyro
+Air|rogue|Rogue
+Air|starling|LF-22 Starling
+Air|strikeforce|B-11 Strikeforce
+Air|tula|Tula
+Air|avenger|Avenger
+Air|bombushka|Bombushka
+Air|mogul|Mogul
+Air|nokota|P-45 Nokota
+Air|seabreeze|Seabreeze
+Air|volatol|Volatol
+Water|avisa|Avisa
+Water|dinghy|Dinghy
+Water|dinghy2|Dinghy 2
+Water|dinghy3|Dinghy 3
+Water|dinghy4|Dinghy 4
+Water|dinghy5|Weaponized Dinghy
+Water|jetmax|Jetmax
+Water|kosatka|Kosatka
+Water|longfin|Longfin
+Water|marquis|Marquis
+Water|patrolboat|Kurtz 31 Patrol Boat
+Water|predator|Police Predator
+Water|seashark|Seashark
+Water|seashark2|Seashark 2
+Water|seashark3|Seashark 3
+Water|speeder|Speeder
+Water|speeder2|Speeder 2
+Water|squalo|Squalo
+Water|submersible|Submersible
+Water|submersible2|Kraken
+Water|suntrap|Suntrap
+Water|toro|Toro
+Water|toro2|Toro 2
+Water|tropic|Tropic
+Water|tropic2|Tropic 2
+Water|tug|Tug

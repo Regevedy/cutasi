@@ -1,0 +1,13 @@
+<MapMods>
+  <Map name="Airport Worklights" enabled="true">
+    <Object model="prop_worklight_03b" x="-1034.6" y="-2733.8" z="20.2" heading="0.0" frozen="true" />
+  </Map>
+  <Map name="Safehouse Hills Mansion Props" enabled="false" file="mp2025_02">
+    <Object model="m25_2_prop_m52_cathouse" x="-1618.805" y="421.6034" z="121.1088" heading="0.0" frozen="true" />
+    <Object model="m25_2_prop_m52_cash_trolley_lrg_full" x="-1616.805" y="421.6034" z="121.1088" heading="90.0" frozen="true" />
+    <Object model="m25_2_prop_m52_phonebox_01a" x="92.392" y="-223.517" z="53.644" heading="180.0" frozen="true" />
+  </Map>
+  <Map name="Road Barrier Test" enabled="false">
+    <Object model="prop_barrier_work05" x="215.0" y="-810.0" z="30.8" heading="90.0" frozen="true" />
+  </Map>
+</MapMods>

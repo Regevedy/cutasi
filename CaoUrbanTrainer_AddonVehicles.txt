@@ -1,0 +1,8 @@
+# Cao Urban Trainer add-on vehicle catalog fallback
+# Automatically scans loose/exported vehicles.meta files.
+# This file is optional now. Use it only if the scanner cannot see your add-on car.
+# Format: Add-On|spawn_name|Display Name
+# Examples:
+# Add-On|rmodgt63|Mercedes-AMG GT63 Add-On
+# Add-On|bmwm5e60|BMW M5 E60 Add-On
+# Add-On|rs7c8|Audi RS7 C8 Add-On

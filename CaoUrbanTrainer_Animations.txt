@@ -1,0 +1,25 @@
+# Cao Urban Trainer animation catalog
+# Format: Label|Dict|Name|Duration|Flags
+Safehouse DLC - Flash Badge|anim@mp_player_intcelebrationmale@flash_cop_badge|flash_cop_badge|4500|48
+Safehouse DLC - Baton Twirl|anim@mp_player_intcelebrationmale@baton_twirl|baton_twirl|4500|48
+Safehouse DLC - Salute|anim@mp_player_intcelebrationmale@salute|salute|4500|48
+Safehouse DLC - Wasnt Me|anim@mp_player_intcelebrationmale@wasnt_me|wasnt_me|4500|48
+Safehouse DLC - Bomb Plant Male|anim@scripted@adv@ig1_bombplant@male@|idle|-1|1
+Safehouse DLC - Bomb Defuse Male|anim@scripted@adv@ig2_bombdefuse@male@|idle|-1|1
+Safehouse DLC - Avi Simulator Male|anim@scripted@avi1@ig1_simulator@male@|idle|-1|1
+Safehouse DLC - Avi Payphone Male|anim@scripted@avi2@ig2_payphone@male@|idle|-1|1
+Safehouse DLC - Cat Mansion Male|anim@scripted@creatures@cat@amb@mansion@male@|idle|-1|1
+Safehouse DLC - Rottweiler Mansion Male|anim@scripted@creatures@rottweiler@amb@mansion@male@|idle|-1|1
+Safehouse DLC - Retriever Kennel|anim@scripted@freemode@animals@dogs@retriever@sleeping_in_kennel@|idle|-1|1
+Safehouse DLC - Pickup Cat Male|anim@scripted@freemode@ig1_pickup_cat@male@|idle|-1|1
+Safehouse DLC - Sunlounger Male|anim@scripted@freemode@ig2_sunlounger@male@|idle|-1|1
+Safehouse DLC - Sit Cigar Male|anim@scripted@freemode@ig4_sit_cigar@male@|idle|-1|49
+Safehouse DLC - Push Ups Male|anim@scripted@freemode@ig5_push_ups@male@|idle|-1|1
+Safehouse DLC - Sit Ups Male|anim@scripted@freemode@ig6_sit_ups@male@|idle|-1|1
+Safehouse DLC - Chin Ups Male|anim@scripted@freemode@ig7_chin_ups@male@|idle|-1|1
+Safehouse DLC - Barbell Male|anim@scripted@freemode@ig8_barbell@male@|idle|-1|1
+Safehouse DLC - Yoga Male|anim@scripted@freemode@ig9_yoga@male@|idle|-1|1
+Safehouse DLC - Smoke Joint Male|anim@scripted@freemode@ig11_smoke_joint@male@|idle|-1|49
+Safehouse DLC - Make Cocktail Male|anim@scripted@freemode@ig12_make_cocktail@male@|idle|-1|49
+Safehouse DLC - Bench Press Male|anim@scripted@freemode@ig13_bench_press@male|idle|-1|1
+Safehouse DLC - Untie Male|anim@scripted@freemode@ig14_untie@male|idle|-1|1

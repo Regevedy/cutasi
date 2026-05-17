@@ -1,0 +1,8 @@
+# Cao Urban Trainer DLC blip icon catalog
+# Format: Category|Sprite|Display|InternalName
+Mansions DLC|928|Mansion Property|Mansion
+Mansions DLC|929|Prix Luxury Real Estate|PrixLuxuryRealEstate
+Mansions DLC|930|Mansion Garage|MansionGarage
+Mansions DLC|931|Mansion Interior|MansionInterior
+Mansions DLC|932|Mansion Service|MansionService
+Survival|933|NarcoSurvival|NarcoSurvival
